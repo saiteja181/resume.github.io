@@ -1,0 +1,6 @@
+node_modules
+.env
+
+PORT=5500
+
+DB_CONNECT = mongodb+srv://sai:Long@pass1@todolist.ev0sxqa.mongodb.net/?retryWrites=true&w=majority

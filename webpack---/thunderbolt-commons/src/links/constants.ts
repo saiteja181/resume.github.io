@@ -1,0 +1,17 @@
+export const ALLOWED_FILE_EXTENSIONS_FROM_USER_DOMAIN = [
+	'pdf',
+	'docx',
+	'zip',
+	'pptx',
+	'xlsx',
+	'doc',
+	'txt',
+	'rar',
+	'xls',
+	'ppt',
+	'ppsx',
+	'epub',
+	'rtf',
+	'pub',
+	'csv',
+]
